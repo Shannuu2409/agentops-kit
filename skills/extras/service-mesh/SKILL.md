@@ -2,9 +2,10 @@
 name: service-mesh
 description: >-
   Teaches service mesh concepts: sidecars/ambient, mTLS, traffic policy, observability, Istio/Linkerd, and when not to use a mesh. Use when evaluating or operating Istio, Linkerd, or similar service meshes.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Service Mesh
 
 ## 1. Overview
@@ -115,3 +116,8 @@ Linkerd on EKS for mTLS + golden metrics; canary weights via SMI; Ingress still 
 - [ssl](../ssl/SKILL.md)
 - [observability](../observability/SKILL.md)
 - [networking](../networking/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -64,3 +64,8 @@ Selector labels mismatch is classic.
 kubectl rollout undo deployment/<name> -n <ns>
 kubectl rollout status deployment/<name> -n <ns>
 ```
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

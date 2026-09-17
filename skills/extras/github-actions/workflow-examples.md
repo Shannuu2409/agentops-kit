@@ -30,3 +30,8 @@ jobs:
       - name: Build and push
         run: echo "buildx + push + sign here"
 ```
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

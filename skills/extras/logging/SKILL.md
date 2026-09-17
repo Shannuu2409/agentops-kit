@@ -2,9 +2,10 @@
 name: logging
 description: >-
   Teaches structured logging, log shipping, Loki/ELK patterns, retention, and PII-safe practices. Use when designing log pipelines or debugging with centralized logs.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Logging
 
 ## 1. Overview
@@ -114,3 +115,8 @@ kubectl logs -l app=api --tail=100 -f
 - [monitoring](../monitoring/SKILL.md)
 - [security](../security/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

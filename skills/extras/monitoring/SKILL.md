@@ -2,9 +2,10 @@
 name: monitoring
 description: >-
   Teaches Prometheus, Grafana, Alertmanager, metrics design, SLOs, and alerting. Use when implementing metrics monitoring, dashboards, or production alerting.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Monitoring
 
 ## 1. Overview
@@ -115,3 +116,8 @@ Budget series per service; reject metrics with unbounded labels at the collector
 - [logging](../logging/SKILL.md)
 - [performance](../performance/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

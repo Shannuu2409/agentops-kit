@@ -2,9 +2,10 @@
 name: scripting
 description: >-
   Teaches DevOps scripting with Bash and Python: safe shell practices, idempotency, CLI design, and automation patterns. Use when writing automation scripts, glue code, or operational tooling.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Scripting
 
 ## 1. Overview
@@ -113,3 +114,8 @@ subprocess.run(["kubectl", "get", "pods", "-o", "json"], check=True)
 - [cicd](../cicd/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
 - [git](../git/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

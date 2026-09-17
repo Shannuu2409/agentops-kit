@@ -2,9 +2,10 @@
 name: ssl
 description: >-
   Teaches TLS/SSL: certificates, handshakes, ACME, mTLS, cipher hygiene, and debugging certificate errors. Use when configuring HTTPS, managing certificates, or troubleshooting TLS failures.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # SSL / TLS
 
 ## 1. Overview
@@ -117,3 +118,8 @@ cert-manager DNS-01 to Route53; ClusterIssuers staging/prod; certificates on Ing
 - [security](../security/SKILL.md)
 - [networking](../networking/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

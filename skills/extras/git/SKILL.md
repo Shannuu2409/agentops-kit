@@ -2,9 +2,10 @@
 name: git
 description: >-
   Teaches Git workflows for DevOps: branching, rebase vs merge, tags, hooks, signed commits, and incident-safe history practices. Use when working with Git workflows, release tagging, or fixing repository issues.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Git
 
 ## 1. Overview
@@ -116,3 +117,8 @@ Trunk-based; short feature branches; squash merge; semver tags trigger release w
 - [github-actions](../github-actions/SKILL.md)
 - [cicd](../cicd/SKILL.md)
 - [security](../security/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

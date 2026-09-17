@@ -2,9 +2,10 @@
 name: dns
 description: >-
   Teaches DNS for engineers: records, TTL, recursion, Route53 patterns, split-horizon, and debugging resolution failures. Use when configuring DNS, planning cutovers, or debugging name resolution.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # DNS
 
 ## 1. Overview
@@ -116,3 +117,8 @@ Route53 public + private hosted zones; Terraform records; ACM DNS-01; weighted c
 - [load-balancing](../load-balancing/SKILL.md)
 - [disaster-recovery](../disaster-recovery/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

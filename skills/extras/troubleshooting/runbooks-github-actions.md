@@ -33,3 +33,8 @@ Could not assume role / Invalid identity token
 ## Debug mode
 
 Repo secret `ACTIONS_STEP_DEBUG=true` (and runner debug as needed). Remove after.
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

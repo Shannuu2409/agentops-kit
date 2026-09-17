@@ -2,9 +2,10 @@
 name: aws
 description: >-
   Teaches AWS core services for DevOps: IAM, VPC, EC2, ECS, EKS, S3, ALB/NLB, Route53, CloudWatch, and production landing-zone patterns. Use when designing, operating, or troubleshooting AWS infrastructure.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # AWS
 
 ## 1. Overview
@@ -126,3 +127,8 @@ Org with log/security/prod/dev accounts; Terraform landing zone; EKS + IRSA; ALB
 - [networking](../networking/SKILL.md)
 - [security](../security/SKILL.md)
 - [monitoring](../monitoring/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

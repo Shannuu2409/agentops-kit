@@ -36,3 +36,8 @@ openssl s_client -connect host:443 -servername host </dev/null 2>/dev/null | ope
 | alert handshake failure | TLS version/cipher mismatch |
 
 cert-manager: `kubectl describe certificate`; check Order/Challenge events.
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

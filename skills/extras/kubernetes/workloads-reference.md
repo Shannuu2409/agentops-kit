@@ -57,3 +57,8 @@ spec:
         name: cpu
         target: { type: Utilization, averageUtilization: 70 }
 ```
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

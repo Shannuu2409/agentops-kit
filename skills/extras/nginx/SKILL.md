@@ -2,9 +2,10 @@
 name: nginx
 description: >-
   Teaches Nginx as reverse proxy, TLS terminator, load balancer, and static server — config structure, upstreams, caching, rate limits, and debugging 502/504. Use when configuring or troubleshooting Nginx ingress/proxy layers.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Nginx
 
 ## 1. Overview
@@ -128,3 +129,8 @@ server {
 - [networking](../networking/SKILL.md)
 - [kong](../kong/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

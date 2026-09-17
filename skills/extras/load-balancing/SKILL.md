@@ -2,9 +2,10 @@
 name: load-balancing
 description: >-
   Teaches load balancing: L4 vs L7, algorithms, health checks, ALB/NLB/HAProxy/Nginx, and failure modes. Use when designing traffic distribution or debugging unbalanced or failing backends.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Load Balancing
 
 ## 1. Overview
@@ -110,3 +111,8 @@ ALB path-based routing to target groups; slow-start for new ASG instances; dereg
 - [blue-green-deployment](../blue-green-deployment/SKILL.md)
 - [aws](../aws/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

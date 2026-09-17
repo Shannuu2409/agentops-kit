@@ -37,3 +37,8 @@ volumes:
 ```
 
 Never commit real passwords — use `.env` (gitignored) or a secret manager for shared envs.
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

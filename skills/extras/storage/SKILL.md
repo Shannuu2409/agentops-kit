@@ -2,9 +2,10 @@
 name: storage
 description: >-
   Teaches storage for DevOps: block/file/object, CSI, PV/PVC, durability, performance tiers, and backup patterns. Use when designing persistent storage for containers, VMs, or data services.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Storage
 
 ## 1. Overview
@@ -112,3 +113,8 @@ EBS gp3 for Postgres via CSI; daily snapshots to DR account; S3 versioned for ba
 - [databases](../databases/SKILL.md)
 - [disaster-recovery](../disaster-recovery/SKILL.md)
 - [performance](../performance/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

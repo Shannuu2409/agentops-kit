@@ -2,9 +2,10 @@
 name: linux
 description: >-
   Teaches Linux filesystem, processes, systemd, permissions, SSH, networking, performance (CPU/memory/disk), SELinux/AppArmor, and production ops. Use when administering Linux hosts, debugging system issues, or hardening servers.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Linux
 
 ## 1. Overview
@@ -144,3 +145,8 @@ See also: [hardening-checklist.md](hardening-checklist.md)
 - [performance](../performance/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
 - [scripting](../scripting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

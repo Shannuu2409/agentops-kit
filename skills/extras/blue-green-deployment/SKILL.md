@@ -2,9 +2,10 @@
 name: blue-green-deployment
 description: >-
   Teaches blue-green deployments: dual environments, traffic cutover, validation, rollback, and cloud/K8s implementations. Use when designing or operating blue-green release strategies.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Blue-Green Deployment
 
 ## 1. Overview
@@ -117,3 +118,8 @@ ECS two target groups; CodeDeploy blue/green; hooks run integration tests; flip;
 - [rollback-strategies](../rollback-strategies/SKILL.md)
 - [cicd](../cicd/SKILL.md)
 - [load-balancing](../load-balancing/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

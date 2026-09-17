@@ -5,6 +5,9 @@ description: >-
   CI/CD, and troubleshooting. Apply on any DevOps, infra, backend ops, or
   production reliability task.
 alwaysApply: true
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
 
 # Senior DevOps Engineer Ruleset
@@ -257,3 +260,8 @@ If any check fails, improve the answer before presenting it.
 Prefer reading matching installed skills for deep domain guidance:
 
 `docker`, `kubernetes`, `github-actions`, `terraform`, `ansible`, `linux`, `networking`, `security`, `cicd`, `troubleshooting`, `ssl`, `dns`, `load-balancing`, `secrets-management`, `observability`
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

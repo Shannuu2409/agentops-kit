@@ -2,9 +2,10 @@
 name: databases
 description: >-
   Teaches operational database practices for MySQL, PostgreSQL, MongoDB, Redis: replication, backups, migrations (Flyway/Liquibase), and connectivity. Use when operating databases, planning migrations, or debugging DB issues in production.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Databases
 
 ## 1. Overview
@@ -118,3 +119,8 @@ Aurora Postgres Multi-AZ; PgBouncer; Flyway in CD before Rollout; logical replic
 - [performance](../performance/SKILL.md)
 - [security](../security/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

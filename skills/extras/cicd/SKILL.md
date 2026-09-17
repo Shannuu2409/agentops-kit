@@ -2,9 +2,10 @@
 name: cicd
 description: >-
   Teaches CI/CD pipelines: build, test, security scanning, SBOM, signing, deploy, rollback, approvals, and notifications. Use when designing or improving continuous integration and delivery pipelines.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # CI/CD
 
 ## 1. Overview
@@ -118,3 +119,8 @@ PR → CI; main → build once → staging auto; prod canary via Argo Rollouts; 
 - [canary-deployment](../canary-deployment/SKILL.md)
 - [rollback-strategies](../rollback-strategies/SKILL.md)
 - [security](../security/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -2,9 +2,10 @@
 name: architecture
 description: >-
   Teaches system architecture for DevOps: monolith vs microservices, event-driven design, queues (RabbitMQ/Kafka), API gateways, and service discovery. Use when designing systems, evaluating tradeoffs, or planning platform topology.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Architecture
 
 ## 1. Overview
@@ -114,3 +115,8 @@ Modular monolith initially; extract payment service when team/scale justified; K
 - [kong](../kong/SKILL.md)
 - [observability](../observability/SKILL.md)
 - [databases](../databases/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -2,9 +2,10 @@
 name: terraform
 description: >-
   Teaches Terraform state, modules, providers, workspaces, plan/apply, drift, remote backends, and IaC CI/CD best practices. Use when writing, reviewing, or troubleshooting Terraform infrastructure code.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Terraform
 
 ## 1. Overview
@@ -125,3 +126,8 @@ See also: [ci-oidc-example.md](ci-oidc-example.md)
 - [cicd](../cicd/SKILL.md)
 - [security](../security/SKILL.md)
 - [github-actions](../github-actions/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -2,8 +2,10 @@
 name: docker
 description: >-
   Teaches Docker containers, images, BuildKit, Compose, networking, volumes, security scanning (Trivy/Syft/Cosign), and production image practices. Use when building, optimizing, debugging, or securing Docker images and containers.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
 # Docker
 
 ## 1. Overview
@@ -237,3 +239,8 @@ See also: [compose-examples.md](compose-examples.md), [security-scanning.md](sec
 - [security](../security/SKILL.md)
 - [github-actions](../github-actions/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -27,3 +27,8 @@ steps:
 ```
 
 Lock state with S3 + DynamoDB. Restrict the IAM role to the specific state bucket and target accounts.
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

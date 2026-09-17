@@ -2,9 +2,10 @@
 name: troubleshooting
 description: >-
   DevOps troubleshooting runbooks for Docker, Kubernetes CrashLoopBackOff/OOMKilled/ImagePullBackOff, GitHub Actions, DNS, SSL, Kong, Nginx, 502/503/504, databases, and performance bottlenecks. Use when diagnosing production or CI failures.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Troubleshooting
 
 ## 1. Overview
@@ -114,3 +115,8 @@ SEV1 checkout errors: canary at 25% showed 5xx; auto-abort restored stable in 3m
 - [ssl](../ssl/SKILL.md)
 - [observability](../observability/SKILL.md)
 - [rollback-strategies](../rollback-strategies/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

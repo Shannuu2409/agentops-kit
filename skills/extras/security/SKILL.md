@@ -2,9 +2,10 @@
 name: security
 description: >-
   Teaches DevOps/AppSec: OWASP, WAF/ModSecurity, CSP/HSTS/CORS, JWT/OAuth/mTLS, IAM/RBAC, secrets, Vault/Infisical, and supply-chain controls. Use when hardening systems, reviewing security controls, or remediating vulns.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Security
 
 ## 1. Overview
@@ -122,3 +123,8 @@ OIDC login; API JWT 15m; refresh rotation; WAF on ALB; NetworkPolicies; Vault Ag
 - [cicd](../cicd/SKILL.md)
 - [kubernetes](../kubernetes/SKILL.md)
 - [aws](../aws/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

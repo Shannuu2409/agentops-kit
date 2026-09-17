@@ -40,3 +40,8 @@ cat .dockerignore
 - Use **service name** as hostname on user-defined network
 - `docker compose exec api ping db`
 - Check published ports vs internal ports (map host:container carefully)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

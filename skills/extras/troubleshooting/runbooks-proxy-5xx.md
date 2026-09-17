@@ -42,3 +42,8 @@ Verify route match (host/path), plugins (auth 401 vs 5xx), upstream targets heal
 - Rollback deploy
 - Scale healthy version
 - Bypass gateway only with extreme care (security)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

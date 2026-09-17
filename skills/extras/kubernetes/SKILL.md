@@ -2,9 +2,10 @@
 name: kubernetes
 description: >-
   Teaches Kubernetes architecture, workloads, Services, Ingress/Gateway API, storage, scheduling, autoscaling, Helm/Kustomize, RBAC, NetworkPolicies, and troubleshooting. Use when designing, deploying, debugging, or securing Kubernetes workloads.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Kubernetes
 
 ## 1. Overview
@@ -197,3 +198,8 @@ See: [workloads-reference.md](workloads-reference.md)
 - [cicd](../cicd/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
 - [aws](../aws/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

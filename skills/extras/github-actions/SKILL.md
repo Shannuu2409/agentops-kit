@@ -2,9 +2,10 @@
 name: github-actions
 description: >-
   Teaches GitHub Actions workflows, runners, caching, matrices, reusable workflows, OIDC, secrets, environments, and secure CI/CD pipelines. Use when authoring, debugging, or hardening GitHub Actions workflows.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # GitHub Actions
 
 ## 1. Overview
@@ -144,3 +145,8 @@ See: [workflow-examples.md](workflow-examples.md)
 - [security](../security/SKILL.md)
 - [aws](../aws/SKILL.md)
 - [secrets-management](../secrets-management/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

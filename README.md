@@ -130,8 +130,8 @@ Legacy overlay names (e.g. `docker`, `kubernetes`, `terraform`) are intentionall
 
 ## Credits
 
-- **[ops-engineering-skills](https://github.com/selvarajmurugesan90/ops-engineering-skills)** — 296 skills, [Agent Skills standard](https://agentskills.io). Apache-2.0. See [NOTICE](NOTICE).
-- **AgentOps Kit** overlay and installer — [Shannuu2409](https://github.com/Shannuu2409).
+- **[ops-engineering-skills](https://github.com/selvarajmurugesan90/ops-engineering-skills)** — 296 upstream skills (submodule), [Agent Skills standard](https://agentskills.io). Apache-2.0. See [NOTICE](NOTICE).
+- **Overlay skills** (`skills/extras/`), **production rules** (`rules/production-devops.mdc`), and **installer** — **Shanmukha Kumar Karra** ([Shannuu2409](https://github.com/Shannuu2409)). Each overlay skill is signed in frontmatter and at the end of `SKILL.md`.
 
 Full upstream index: [docs/SKILLS_INDEX.md](vendor/ops-engineering-skills/docs/SKILLS_INDEX.md) (after submodule init).
 

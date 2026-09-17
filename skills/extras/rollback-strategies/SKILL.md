@@ -2,9 +2,10 @@
 name: rollback-strategies
 description: >-
   Teaches rollback strategies: redeploy previous artifact, traffic revert, feature flags, DB forward-fix, and decision criteria. Use when planning rollback runbooks or recovering from a bad release.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Rollback Strategies
 
 ## 1. Overview
@@ -113,3 +114,8 @@ Canary abort restores stable Service selector; if 100% already cut over, Argo CD
 - [canary-deployment](../canary-deployment/SKILL.md)
 - [cicd](../cicd/SKILL.md)
 - [disaster-recovery](../disaster-recovery/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -2,9 +2,10 @@
 name: disaster-recovery
 description: >-
   Teaches disaster recovery: RTO/RPO, backups, multi-AZ/region, runbooks, and game days. Use when designing DR plans, backup strategies, or conducting recovery drills.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Disaster Recovery
 
 ## 1. Overview
@@ -114,3 +115,8 @@ Tier-0: Aurora Global + Route53 health failover; tier-1: daily snapshots RTO 4h;
 - [aws](../aws/SKILL.md)
 - [rollback-strategies](../rollback-strategies/SKILL.md)
 - [dns](../dns/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

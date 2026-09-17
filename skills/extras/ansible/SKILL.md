@@ -2,9 +2,10 @@
 name: ansible
 description: >-
   Teaches Ansible inventory, playbooks, roles, collections, Vault, templates, handlers, idempotency, and dynamic inventory. Use when automating configuration management or host provisioning with Ansible.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Ansible
 
 ## 1. Overview
@@ -113,3 +114,8 @@ ansible-vault edit group_vars/prod/vault.yml
 - [linux](../linux/SKILL.md)
 - [security](../security/SKILL.md)
 - [secrets-management](../secrets-management/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

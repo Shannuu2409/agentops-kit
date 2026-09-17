@@ -2,9 +2,10 @@
 name: canary-deployment
 description: >-
   Teaches canary releases: progressive traffic shifting, metrics gates, Flagger/Argo Rollouts, and abort criteria. Use when implementing progressive delivery or canary deployments.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Canary Deployment
 
 ## 1. Overview
@@ -111,3 +112,8 @@ Argo Rollouts AnalysisTemplate on p99 and 5xx; steps 10/25/50/100; Slack notific
 - [cicd](../cicd/SKILL.md)
 - [observability](../observability/SKILL.md)
 - [service-mesh](../service-mesh/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

@@ -44,3 +44,8 @@ Evictions? maxmemory policy? Hot keys?
 2. Trace slow span
 3. Profile if CPU; EXPLAIN if DB; `ss` if conn exhaustion
 4. Load test fix in staging
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

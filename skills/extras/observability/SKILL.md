@@ -2,9 +2,10 @@
 name: observability
 description: >-
   Teaches observability with metrics, logs, traces, OpenTelemetry, Tempo/Jaeger, and correlation practices. Use when implementing OpenTelemetry, distributed tracing, or full observability stacks.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Observability
 
 ## 1. Overview
@@ -112,3 +113,8 @@ OTel SDK in services → Collector DaemonSet + gateway → AMP + Loki + Tempo; G
 - [logging](../logging/SKILL.md)
 - [performance](../performance/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

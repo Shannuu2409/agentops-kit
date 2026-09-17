@@ -11,3 +11,8 @@
 - [ ] chrony/NTP configured
 - [ ] Kernel/sysctl hardening tested before broad rollout
 - [ ] Agents: logging, metrics, vulnerability scanner
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

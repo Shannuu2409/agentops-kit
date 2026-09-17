@@ -2,9 +2,10 @@
 name: kong
 description: >-
   Teaches Kong API Gateway: routing, plugins, auth, rate limiting, services/routes, Ingress Controller, and debugging gateway failures. Use when implementing or troubleshooting Kong as an API gateway.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Kong API Gateway
 
 ## 1. Overview
@@ -117,3 +118,8 @@ curl http://localhost:8001/services  # Admin — local only!
 - [security](../security/SKILL.md)
 - [load-balancing](../load-balancing/SKILL.md)
 - [service-mesh](../service-mesh/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

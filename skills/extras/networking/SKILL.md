@@ -2,9 +2,10 @@
 name: networking
 description: >-
   Teaches OSI/TCP-IP, HTTP/HTTPS, DNS, TLS, NAT, VPN, CIDR, routing, load balancers, firewalls (iptables/nftables/UFW), and reverse proxies. Use when designing networks, debugging connectivity, or configuring traffic paths.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Networking
 
 ## 1. Overview
@@ -154,3 +155,8 @@ Multi-AZ VPC: public ALB → private Nginx Ingress → ClusterIP Services; Route
 - [kong](../kong/SKILL.md)
 - [linux](../linux/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*

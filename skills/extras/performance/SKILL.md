@@ -2,9 +2,10 @@
 name: performance
 description: >-
   Teaches performance engineering: measurement, bottlenecks (CPU/mem/IO/net), caching, profiling, and capacity planning. Use when diagnosing latency/throughput issues or optimizing systems.
+metadata:
+  author: Shanmukha Kumar Karra
+  maintainer: Shanmukha Kumar Karra
 ---
-
-
 # Performance
 
 ## 1. Overview
@@ -121,3 +122,8 @@ p99 checkout SLO; trace shows DB; EXPLAIN adds index; k6 verifies; HPA on concur
 - [linux](../linux/SKILL.md)
 - [databases](../databases/SKILL.md)
 - [troubleshooting](../troubleshooting/SKILL.md)
+
+---
+
+**Author & maintainer:** Shanmukha Kumar Karra  
+*Created and maintained as part of [AgentOps Kit](https://github.com/Shannuu2409/agentops-kit).*
