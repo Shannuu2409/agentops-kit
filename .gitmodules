@@ -1,0 +1,3 @@
+[submodule "vendor/ops-engineering-skills"]
+	path = vendor/ops-engineering-skills
+	url = https://github.com/selvarajmurugesan90/ops-engineering-skills.git

@@ -1,0 +1,8 @@
+AgentOps Kit bundles skills from the ops-engineering-skills project.
+
+ops-engineering-skills
+  Copyright contributors to https://github.com/selvarajmurugesan90/ops-engineering-skills
+  Licensed under the Apache License, Version 2.0
+  See vendor/ops-engineering-skills/LICENSE after submodule init.
+
+Overlay skills under skills/extras/ are maintained in this repository.
